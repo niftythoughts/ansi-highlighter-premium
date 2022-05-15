@@ -1,6 +1,6 @@
 # ANSI Highlighter Premium
 
-[ANSI Highlighter](https://niftythoughts.com/#ansi-highlight) is an IntelliJ platform plugin that enables fast rendering of ANSI escape sequences in log files, regardless their size, from within the convenience of the IDE editor, all while delivering outstanding performance when dealing with large logs.
+[ANSI Highlighter](https://niftythoughts.com/#ansi-highlight) is an IntelliJ platform plugin that brings into play the fast rendering of ANSI escape sequences in log files, regardless their size, from within the convenience of the IDE editor, all while delivering outstanding performance when dealing with large logs.
 
 Plugin available on the JetBrains Marketplace, compatible with all Jetbrains products.
 
