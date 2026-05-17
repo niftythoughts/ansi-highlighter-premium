@@ -21,9 +21,15 @@ Use any of the following options to switch between ANSI Highlighter vs Plain mod
 - Switch between 'Plain' and 'ANSI Highlighter' tabs at the bottom
 - Right click on the editor and press 'Switch to Plain / ANSI Highlighter mode'
 - Alternatively place the cursor on the editor and use the keyboard shortcut 'ctrl meta A' (customizable from Preferences | Keymap | ANSI Highlighter Premium)
+### Soft Wrap:
+- Go to Settings | Editor | General | Console
+- Toggle 'Use soft wraps in console'
+- To force soft wrap when line length is too large go to Settings | Advanced Settings
+- Customize 'Force soft wrap in documents with lines larger than...'
 ### Supported ANSI codes:
 - Reset code (0)
 - Bold code (1)
+- Dim / faint code (2)
 - Italic code (3)
 - Single Underline code (4)
 - All text foreground color codes (30-37)
